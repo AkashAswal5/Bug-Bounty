@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0ff74c5465495e5b",
+        "id": "a5be28226929b731",
         "type": "tabs",
         "children": [
           {
-            "id": "8c4b1b212fecc380",
+            "id": "b3236a6a027d6ad3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Airbnb/airbnb.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "airbnb"
-            }
-          },
-          {
-            "id": "baa6cca896375f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tekion/Tekion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tekion"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +179,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "baa6cca896375f31",
+  "active": "355f44520098c959",
   "lastOpenFiles": [
     "Airbnb/Scope airbnb.md",
     "Tekion/Tekion.md",
