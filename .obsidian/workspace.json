@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5be28226929b731",
+        "id": "9be46638ce4cb6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "b3236a6a027d6ad3",
+            "id": "43cbce8e2d6b9641",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,8 +181,19 @@
   },
   "active": "355f44520098c959",
   "lastOpenFiles": [
-    "Airbnb/Scope airbnb.md",
+    "discourse/discourse.md~",
+    "discourse/discourse.md",
+    "discourse",
     "Tekion/Tekion.md",
+    "motivation.md",
+    "Tekion/tekion.com_login_page/tekion.com.md",
+    "Tekion/tekion.com_login_page",
+    "Tekion/tekion.com/tekion.com.md~",
+    "Tekion/tekion.com/tekion.com.md",
+    "motivation.md~",
+    "Tekion/tekion.com/tekion.com",
+    "Tekion/tekion.com",
+    "Airbnb/Scope airbnb.md",
     "Tekion",
     "Airbnb/airbnb.md",
     "images_sources"
