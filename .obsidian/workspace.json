@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9be46638ce4cb6ca",
+        "id": "1bc61b6e3ce85a50",
         "type": "tabs",
         "children": [
           {
-            "id": "43cbce8e2d6b9641",
+            "id": "bac95ce22eb100b6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,10 +179,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "355f44520098c959",
+  "active": "bac95ce22eb100b6",
   "lastOpenFiles": [
-    "discourse/discourse.md~",
+    "discourse/teting_notes_format.md",
+    "discourse/map_assets.md",
     "discourse/discourse.md",
+    "discourse/Bug_bounty_discourse_roadmap.md",
+    "discourse/30_day_discourse_plan.md",
+    "discourse/discourse.md~",
     "discourse",
     "Tekion/Tekion.md",
     "motivation.md",
