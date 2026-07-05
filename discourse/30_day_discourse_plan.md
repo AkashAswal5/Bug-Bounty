@@ -43,7 +43,6 @@ Just become a power user.
 * Run in development mode
 
 Read:
-
 ```
 README
 docs/

@@ -29,4 +29,4 @@ database schema
 ## Scope
 -  Domain: **https://try.discourse.org**
 - Scope: **https://github.com/discourse/discourse**
-
+- documentation for new user: https://meta.discourse.org/t/understanding-discourse-for-new-users/96331?silent=true
