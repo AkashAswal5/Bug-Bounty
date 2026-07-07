@@ -97,3 +97,8 @@ Response:
 ```
 
 ---
+
+> password Reset
+https://try.discourse.org/password-reset
+
+
