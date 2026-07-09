@@ -1,0 +1,9 @@
+cookie  format
+```
+Cookie: _forum_session=MifyylzdfwQu3873qTwxmk71K%2F7cHpsX2sr8uGjBiW96TAKulixaubLatp%2BEogTKPAwyt5DVQ1MQ%2FYMF7x6NHguS1SWizb7kyxsEe8%2BHDFfKnJnPv4zONUsF70GTo0AuJGmTBasaBHmqT8g1j62o74Hk9QI3tym47BWTghxceLr%2FY2%2FQuOkKe9b7I5%2FiChXrkqbNE4moXvC2iU9f%2FQSAYhj5p2eLyOsFAtEEiUpIM0c93GhbM9KYJbImqUloOdeDMpkFsNFHhZxzRap5eh5H7q9YwCMETCeKhYrm2%2F9lr8%2FEQJlaTnPMualivX%2F4uze5N0gM4rvESdcILiHuQcZPWKZg%2FC4GVorTmRpDomHlQrkFEW5g5%2FI%3D--xdph1jQnbgg2hngE--ZyG%2FdAZ76ULd901cF73wkg%3D%3D;
+ _t=47drKO8%2FFlO%2BW0eHCueu9sgac1SR2g1traybOswck%2F%2Fzk%2FCJLbLXt38PXZoPgHoBFMOeTJRGJvU7SbzAGTldRaSviTk1iGSqZNaJyRl4Y4%2Bil9jinEY%2Fq5JJczUW9BE2Q0jj1ifRA9xhEkPZeUAciB443JR29Ssxc8DTFo1KBAhkHtl6NovG8JlnVE1D%2BHuLRfLvWkqMgd2RdgavQLJsyH9hYgn0coyhGKfBEEaRUFxbButN11xF1G2DCo4CkUPN7rJUWrNk4BHcvlLGqM0jGaneHP5BIGvSf4RRJv2n8DEGFXC88ieQKA%3D%3D--Pb4FlVn2AEAUCIFY--cX4BLH%2BF0y5Pnh7rDmwk0g%3D%3D
+```
+
+here what does `_forum_session` & `_t` means  --> need to understand this
+what is need, working, and why we are using this only, not other than this 
+

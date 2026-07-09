@@ -13,7 +13,8 @@ Test
 
 login: https://try.discourse.org/login
 
-create [[multiple CSRF Token]]: https://id.discourse.com/session/csrf 
+create [[d]]: https://id.discourse.com/session/csrf 
+ check if csrf token is tied to user or not 
 
 ---
 request: https://id.discourse.com/manifest.webmanifest

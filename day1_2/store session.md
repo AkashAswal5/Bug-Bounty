@@ -6,7 +6,7 @@ cookie format
 
 ----
 ##### notes
-> can use cookie after we log out
+> can use cookie after we log out  --> NO --> 
 > can
 
 test for 
@@ -18,3 +18,4 @@ test for
 > send multiple request  on  up to 15 https://try.discourse.org/u/testing_hacking.json user profile to get date [race condition] , it doesn't work
 
 > try to delete other user session https://try.discourse.org/session/testing_hacking1 not work
+
