@@ -100,11 +100,8 @@ Now search code
 
 ```
 User
-
 UserUpdater
-
 UsersController
-
 Avatar
 ```
 

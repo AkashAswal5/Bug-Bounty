@@ -9,7 +9,7 @@
 url: https://try.discourse.org/u/testing_hacking1/preferences/account
 
 ```
-account --> change username --> [server] check_username [exist or not]
+account --> change username --> [server] check_username [exist or not] --> 
 ```
 https://try.discourse.org/u/check_username?username=testing_hacking1q&for_user_id=726
 
@@ -24,3 +24,4 @@ Set-Cookie: _t=JPhkC6OYlB0mK9baeawSGYLJqtqMqdbdJq253mjqq6S1c0Nx4ixCA2EAXwRABjKBW
 
 
 
+### BIO
