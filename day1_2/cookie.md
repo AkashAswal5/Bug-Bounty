@@ -7,3 +7,14 @@ Cookie: _forum_session=MifyylzdfwQu3873qTwxmk71K%2F7cHpsX2sr8uGjBiW96TAKulixaubL
 here what does `_forum_session` & `_t` means  --> need to understand this
 what is need, working, and why we are using this only, not other than this 
 
+
+##### Don't stop at "the cookie is encrypted." Ask deeper questions:
+
+- How are sessions invalidated on logout?
+- Does a password change invalidate existing sessions?
+- Does MFA change rotate sessions?
+- Is the session rotated after login (session fixation protection)?
+- Are cookies marked `HttpOnly`, `Secure`, and `SameSite`?
+- Are multiple concurrent sessions allowed? If so, can users revoke them?
+- How is the `current_user` established from the session?
+- Are authorization checks consistently performed after authentication?
