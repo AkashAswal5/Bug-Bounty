@@ -6,4 +6,6 @@ Files:
 - map_assets.md
 - run_locally_discoure.md
 - testing_notes_format.md
-- 
+-
+
+- https://hackerone.com/discourse/hacktivity?type=team
