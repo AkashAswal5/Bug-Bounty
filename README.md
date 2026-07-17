@@ -1,11 +1,12 @@
 Target: BookStack
 Git Repo: https://github.com/BookStackApp/
-codeberg: https://codeberg.org/bookstack/
+codeberg: https://codeberg.org/bookstack/    https://codeberg.org/bookstack/website
 Documentation: 
     - https://www.bookstackapp.com/docs/
     - https://www.bookstackapp.com/docs/admin/security/#multi-factor-authentication
 YouTube: https://www.youtube.com/@BookStackApp 
-
+Demo: https://demo.bookstackapp.com/
+Community: https://community.bookstackapp.com/
 ---
 
 BookStack maintainer : https://danb.me/links/
